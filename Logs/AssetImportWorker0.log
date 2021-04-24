@@ -690,3 +690,154 @@ Received Import Request.
 Start importing Assets/Props/Chair/Seat.mat using Guid(c5ed230b84cf4ab4a973af62c78be4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c580db6adc902aa2509b751765a0cf24') in 0.029002 seconds
   Import took 0.036154 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 536.128773 seconds.
+  path: Assets/Props/FlowerPot
+  artifactKey: Guid(565a1ab1b11729f45b4de8abc70e8953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/FlowerPot using Guid(565a1ab1b11729f45b4de8abc70e8953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba967e215dd76844225599383530fef') in 0.016655 seconds
+  Import took 0.021768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.374627 seconds.
+  path: Assets/Props/FlowerPot/pot.fbx
+  artifactKey: Guid(bb9dfba1bd63956488a51359178efbca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/FlowerPot/pot.fbx using Guid(bb9dfba1bd63956488a51359178efbca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106d720ac8bc868afcc1d6ad7c79bcfd') in 0.102812 seconds
+  Import took 0.106834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.990526 seconds.
+  path: Assets/Props/FlowerPot/pot model.fbx
+  artifactKey: Guid(bb9dfba1bd63956488a51359178efbca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/FlowerPot/pot model.fbx using Guid(bb9dfba1bd63956488a51359178efbca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6133adfc0aaa8585b821904323ece5') in 0.088469 seconds
+  Import took 0.092548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.522950 seconds.
+  path: Assets/Props/FlowerPot/Pot.mat
+  artifactKey: Guid(7a09fcbdadf60484ebc30223a29382a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/FlowerPot/Pot.mat using Guid(7a09fcbdadf60484ebc30223a29382a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89108ff29d730557c1c0be0e4ed0b542') in 0.027617 seconds
+  Import took 0.032130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.890497 seconds.
+  path: Assets/Props/FlowerPot/Dirt.mat
+  artifactKey: Guid(c9341999335e0b545ba7582913446236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/FlowerPot/Dirt.mat using Guid(c9341999335e0b545ba7582913446236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb876ca3097acf35136accb6edbafa1') in 0.027153 seconds
+  Import took 0.031397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.525959 seconds.
+  path: Assets/Props/FlowerPot/Stick.mat
+  artifactKey: Guid(91e55f375c12fd8489822f93d5853474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/FlowerPot/Stick.mat using Guid(91e55f375c12fd8489822f93d5853474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9c28fabf722ff28358908e2a2b8c8d9') in 0.023030 seconds
+  Import took 0.030000 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003527 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.690 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.3 MB.
+System memory in use after: 71.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1917.
+Total: 2.304000 ms (FindLiveObjects: 0.265200 ms CreateObjectMapping: 0.111800 ms MarkObjects: 1.862900 ms  DeleteObjects: 0.062900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 305.166116 seconds.
+  path: Assets/Props/FlowerPot/Pot.prefab
+  artifactKey: Guid(a6eb4abd708479748a1773d87979b842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/FlowerPot/Pot.prefab using Guid(a6eb4abd708479748a1773d87979b842) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Pot) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (Pot) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: 'a1ce483c91d1f2a04bc48d225d7292b8') in 0.094879 seconds
+  Import took 0.098208 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002739 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.557 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.3 MB.
+System memory in use after: 71.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1921.
+Total: 2.376400 ms (FindLiveObjects: 0.273400 ms CreateObjectMapping: 0.083800 ms MarkObjects: 1.952900 ms  DeleteObjects: 0.065200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 158.847473 seconds.
+  path: Assets/Props/FlowerPot/Dirt.mat
+  artifactKey: Guid(c9341999335e0b545ba7582913446236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/FlowerPot/Dirt.mat using Guid(c9341999335e0b545ba7582913446236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2572e90cc3d3e40260c1d1cdf4daffc3') in 0.122730 seconds
+  Import took 0.126872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Props/FlowerPot/Stick.mat
+  artifactKey: Guid(91e55f375c12fd8489822f93d5853474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/FlowerPot/Stick.mat using Guid(91e55f375c12fd8489822f93d5853474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '070e4d3dc05f8eaa056a503de3b2f495') in 0.023976 seconds
+  Import took 0.027766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Props/FlowerPot/Pot.mat
+  artifactKey: Guid(7a09fcbdadf60484ebc30223a29382a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/FlowerPot/Pot.mat using Guid(7a09fcbdadf60484ebc30223a29382a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '641fddedd407a253e5ce68cf52a7ced3') in 0.034644 seconds
+  Import took 0.038369 seconds .
+
