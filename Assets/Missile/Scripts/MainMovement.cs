@@ -3,7 +3,7 @@ using UnityEngine;
 public class MainMovement : MonoBehaviour
 {
 
-    [Range(0f, 20f)]
+    [Range(10f, 50f)]
     [SerializeField] float maxSpeed = 3f;
     [Range(0f, 8f)]
     [SerializeField] float mainAcceleration = 1f;

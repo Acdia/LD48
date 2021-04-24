@@ -8,10 +8,16 @@ public class Impact : MonoBehaviour
     [SerializeField] LayerMask staticWalls;
     [SerializeField] float radius = 5f;
 
+    [Space]
+
+    [SerializeField] GameObject effect;
+
     private void OnCollisionEnter(Collision collision)
     {
 
         Debug.Log("Collided");
+
+        effect.SetActive(true);
 
         Collider[] nearbyStaticWalls = Physics.OverlapSphere(transform.position, radius, staticWalls);
 
