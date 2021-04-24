@@ -984,3 +984,373 @@ System memory in use after: 71.5 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1925.
 Total: 2.605200 ms (FindLiveObjects: 0.300700 ms CreateObjectMapping: 0.089900 ms MarkObjects: 2.136100 ms  DeleteObjects: 0.076700 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 152.516551 seconds.
+  path: Assets/Elevator.cs
+  artifactKey: Guid(ad11fc1c69840604eab6d28df276eaab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elevator.cs using Guid(ad11fc1c69840604eab6d28df276eaab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82fc38e75a087c4339953b03984b6fd2') in 0.034285 seconds
+  Import took 0.038042 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002848 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.675 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.4 MB.
+System memory in use after: 71.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1928.
+Total: 2.411900 ms (FindLiveObjects: 0.296400 ms CreateObjectMapping: 0.077500 ms MarkObjects: 1.963900 ms  DeleteObjects: 0.073000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.038060 seconds.
+  path: Assets/Props/Lamp
+  artifactKey: Guid(ca33108c463cad747bbcd5610a7170b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp using Guid(ca33108c463cad747bbcd5610a7170b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a0be1b485637f01f0debb351a4341b') in 0.032731 seconds
+  Import took 0.037707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.738631 seconds.
+  path: Assets/Props/Lamp/Lamp.fbx
+  artifactKey: Guid(ced8c4fbfb69daf44b46abcf0ef4cb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.fbx using Guid(ced8c4fbfb69daf44b46abcf0ef4cb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28a9068768756ef4018e401a9f4bdcff') in 0.170105 seconds
+  Import took 0.174783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.400005 seconds.
+  path: Assets/Props/Lamp/Base.mat
+  artifactKey: Guid(3c60ea0be7d71484ca6e8a8c52a03fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Base.mat using Guid(3c60ea0be7d71484ca6e8a8c52a03fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa26d550c152c3277a7811b69abc5aa0') in 0.024590 seconds
+  Import took 0.028944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.919552 seconds.
+  path: Assets/Props/Lamp/Lamp.mat
+  artifactKey: Guid(f6b9a7192f5d5c64b94273b79baef59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.mat using Guid(f6b9a7192f5d5c64b94273b79baef59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884b9aad026190dde1eeed624a0b9725') in 0.014526 seconds
+  Import took 0.019381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 300.313438 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e69f1f006a478feb0ca45716613a61') in 0.035264 seconds
+  Import took 0.046198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.091523 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e69f1f006a478feb0ca45716613a61') in 0.017954 seconds
+  Import took 0.022734 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003852 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.638 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 71.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1932.
+Total: 2.474000 ms (FindLiveObjects: 0.243900 ms CreateObjectMapping: 0.073500 ms MarkObjects: 2.084500 ms  DeleteObjects: 0.070900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.781917 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1890f204aad589ca1da3d56deb382684') in 0.080739 seconds
+  Import took 0.084199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.668667 seconds.
+  path: Assets/Brick/Brick.prefab
+  artifactKey: Guid(41865c33b5eb4b946b331619d9f06dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Brick.prefab using Guid(41865c33b5eb4b946b331619d9f06dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f01882fc4dc54eee6c7be89347c342') in 0.061519 seconds
+  Import took 0.066153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.555149 seconds.
+  path: Assets/Brick/Brick.prefab
+  artifactKey: Guid(41865c33b5eb4b946b331619d9f06dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Brick.prefab using Guid(41865c33b5eb4b946b331619d9f06dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f01882fc4dc54eee6c7be89347c342') in 0.048941 seconds
+  Import took 0.053932 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003729 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.707 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1937.
+Total: 2.252600 ms (FindLiveObjects: 0.282300 ms CreateObjectMapping: 0.074600 ms MarkObjects: 1.829300 ms  DeleteObjects: 0.065200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.894313 seconds.
+  path: Assets/Brick/Brick.prefab
+  artifactKey: Guid(41865c33b5eb4b946b331619d9f06dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Brick.prefab using Guid(41865c33b5eb4b946b331619d9f06dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eeea41b82e7b2be529fd8a15a8ba88e') in 0.118750 seconds
+  Import took 0.123090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.268229 seconds.
+  path: Assets/Brick/Brick.prefab
+  artifactKey: Guid(41865c33b5eb4b946b331619d9f06dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Brick.prefab using Guid(41865c33b5eb4b946b331619d9f06dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eeea41b82e7b2be529fd8a15a8ba88e') in 0.016670 seconds
+  Import took 0.021049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.889097 seconds.
+  path: Assets/Brick/Brick.prefab
+  artifactKey: Guid(41865c33b5eb4b946b331619d9f06dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Brick.prefab using Guid(41865c33b5eb4b946b331619d9f06dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3b982615532d2244a6b81d09880445a') in 0.022476 seconds
+  Import took 0.027082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.415360 seconds.
+  path: Assets/Brick/Brick.prefab
+  artifactKey: Guid(41865c33b5eb4b946b331619d9f06dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Brick.prefab using Guid(41865c33b5eb4b946b331619d9f06dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3b982615532d2244a6b81d09880445a') in 0.025262 seconds
+  Import took 0.030417 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003215 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.670 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1941.
+Total: 2.446900 ms (FindLiveObjects: 0.296400 ms CreateObjectMapping: 0.077400 ms MarkObjects: 2.002300 ms  DeleteObjects: 0.069300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.790613 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e849e5c035cfa5eaa9c296dd0d3dc504') in 0.079995 seconds
+  Import took 0.084048 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002999 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.665 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1945.
+Total: 2.252900 ms (FindLiveObjects: 0.251700 ms CreateObjectMapping: 0.073400 ms MarkObjects: 1.848400 ms  DeleteObjects: 0.078200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.674004 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d9066c3c709c71b740e9b40972ddc65') in 0.081174 seconds
+  Import took 0.084445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.901900 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943039b189848d62ae36470423849042') in 0.020086 seconds
+  Import took 0.025432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.661711 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27bb5f97b1b7b8507b80341ca32af20e') in 0.024251 seconds
+  Import took 0.028351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.881148 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bcfa50cd39e5d3ca327f4d0834f5f13') in 0.019224 seconds
+  Import took 0.023836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.188763 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8174100dcdb5a1673d8daa5e17f70a7') in 0.022991 seconds
+  Import took 0.028055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.518021 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8be51566e6758761149d3ab6e2306386') in 0.026194 seconds
+  Import took 0.030295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.725875 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5952e68ca83951aa8d28c5da99f148c') in 0.022777 seconds
+  Import took 0.027058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.434364 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8baa8d398f8316727f3ebf9350ab4ff8') in 0.024384 seconds
+  Import took 0.028750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.366835 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d4440c926967eda270ea6692cef571') in 0.015054 seconds
+  Import took 0.019554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.566650 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff03ba93835a84d534a3540dd0ef600f') in 0.026197 seconds
+  Import took 0.030366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.746441 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b55361ec4923f2d900e9fca95a08f5f') in 0.015577 seconds
+  Import took 0.020083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.282301 seconds.
+  path: Assets/Props/Lamp/Lamp.prefab
+  artifactKey: Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.prefab using Guid(011d477b6191e3548a7cc2fb0d453b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46206a6ae9e0196bd13103a7ddcc0ce') in 0.022067 seconds
+  Import took 0.026184 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002763 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.865 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1949.
+Total: 2.567000 ms (FindLiveObjects: 0.263600 ms CreateObjectMapping: 0.086700 ms MarkObjects: 2.149900 ms  DeleteObjects: 0.065200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.596824 seconds.
+  path: Assets/Props/Lamp/Base.mat
+  artifactKey: Guid(3c60ea0be7d71484ca6e8a8c52a03fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Base.mat using Guid(3c60ea0be7d71484ca6e8a8c52a03fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3d9430c45efc0c930a0d738318a933d') in 0.109397 seconds
+  Import took 0.113451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Props/Lamp/Lamp.mat
+  artifactKey: Guid(f6b9a7192f5d5c64b94273b79baef59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Lamp/Lamp.mat using Guid(f6b9a7192f5d5c64b94273b79baef59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9656b4070e0cd1415298598fd31275d') in 0.051194 seconds
+  Import took 0.054706 seconds .
+

@@ -65,8 +65,8 @@
     <Compile Include="Assets\Missile\Scripts\MainMovement.cs" />
     <Compile Include="Assets\Brick\Map\WallExchanger.cs" />
     <Compile Include="Assets\Missile\Scripts\Impact.cs" />
-    <Compile Include="Assets\Elevator.cs" />
-    <Compile Include="Assets\EndZone.cs" />
+    <Compile Include="Assets\Elevator\Elevator.cs" />
+    <Compile Include="Assets\Elevator\EndZone.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
