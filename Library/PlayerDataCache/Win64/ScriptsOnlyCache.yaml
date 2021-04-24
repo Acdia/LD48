@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - Brick
+    - Death
     - Elevator
     - EndZone
     - GameManager
@@ -10,6 +11,29 @@ ScriptsOnlyBuild:
     - MenuInit
     - WallExchanger
     - WallRecursion
+    Unity.Postprocessing.Runtime.dll:
+    - UnityEngine.Rendering.PostProcessing.AmbientOcclusion
+    - UnityEngine.Rendering.PostProcessing.AutoExposure
+    - UnityEngine.Rendering.PostProcessing.Bloom
+    - UnityEngine.Rendering.PostProcessing.ChromaticAberration
+    - UnityEngine.Rendering.PostProcessing.ColorGrading
+    - UnityEngine.Rendering.PostProcessing.DepthOfField
+    - UnityEngine.Rendering.PostProcessing.Grain
+    - UnityEngine.Rendering.PostProcessing.LensDistortion
+    - UnityEngine.Rendering.PostProcessing.MotionBlur
+    - UnityEngine.Rendering.PostProcessing.PostProcessLayer
+    - UnityEngine.Rendering.PostProcessing.PostProcessProfile
+    - UnityEngine.Rendering.PostProcessing.PostProcessResources
+    - UnityEngine.Rendering.PostProcessing.PostProcessVolume
+    - UnityEngine.Rendering.PostProcessing.ScreenSpaceReflections
+    - UnityEngine.Rendering.PostProcessing.Vignette
+    Unity.Recorder.Editor.dll:
+    - UnityEditor.Recorder.GIFRecorderSettings
+    - UnityEditor.Recorder.GIFRecorderSettingsEditor
+    - UnityEditor.Recorder.MovieRecorderEditor
+    - UnityEditor.Recorder.MovieRecorderSettings
+    - UnityEditor.Recorder.RecorderControllerSettings
+    - UnityEditor.Recorder.RecorderSettingsPrefsEditor
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
@@ -37,6 +61,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.Text
   sceneClasses:
     Assets/Scenes/Menu.unity:
     - Class: 1
@@ -90,6 +115,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2438}
     - Class: 114
+      Script: {instanceID: 2460}
+    - Class: 114
       Script: {instanceID: 2988}
     - Class: 114
       Script: {instanceID: 3042}
@@ -111,6 +138,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 6607470}
     - Class: 114
       Script: {instanceID: 6836258}
+    - Class: 114
+      Script: {instanceID: 13992302}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -156,6 +185,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
+    - Class: 72
+      Script: {instanceID: 0}
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
@@ -175,9 +206,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1858}
     - Class: 114
+      Script: {instanceID: 2002}
+    - Class: 114
+      Script: {instanceID: 2048}
+    - Class: 114
+      Script: {instanceID: 2788}
+    - Class: 114
+      Script: {instanceID: 2822}
+    - Class: 114
+      Script: {instanceID: 3430}
+    - Class: 114
       Script: {instanceID: 3608}
     - Class: 114
       Script: {instanceID: 3756}
+    - Class: 114
+      Script: {instanceID: 3912}
+    - Class: 114
+      Script: {instanceID: 4152}
     - Class: 114
       Script: {instanceID: 189656}
     - Class: 114
@@ -665,7 +710,7 @@ ScriptsOnlyBuild:
     className: RecorderBindings
   - hash:
       serializedVersion: 2
-      Hash: 541a252052f4c14c87bde506a426e132
+      Hash: 8aea0cf6d141171d3e5af07491e30115
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Impact
@@ -779,10 +824,16 @@ ScriptsOnlyBuild:
     className: MenuInit
   - hash:
       serializedVersion: 2
-      Hash: 68c66c8cf2149172f0c466aab501d86d
+      Hash: 7e05b0a52b9f403732b2cebdb456f8f0
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GameManager
+  - hash:
+      serializedVersion: 2
+      Hash: 7fcd834cd7eea57ce1e5898dc4e428c3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Death
   platform: 19
   scenePathNames:
   - Assets/Scenes/Menu.unity
