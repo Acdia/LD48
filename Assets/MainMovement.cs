@@ -14,6 +14,8 @@ public class MainMovement : MonoBehaviour
     [SerializeField] float steerSens = 100f;
     [Range(0f, 10f)]
     [SerializeField] float rollSens = 2f;
+    public float autoRollForce = 0.1f;
+    public bool autoRoll = false;
 
     Rigidbody rb;
 
@@ -43,7 +45,27 @@ public class MainMovement : MonoBehaviour
         Vector2 rot = new Vector2(Input.GetAxis("Horizontal"), -Input.GetAxis("Vertical"));
         rot *= steerSens * Time.deltaTime;
 
-        float roll = -Input.GetAxis("Roll") * rollSens * Time.deltaTime;
+        float roll;
+
+        if (autoRoll)
+        {
+
+            float currentRoll = transform.localRotation.eulerAngles.z % 90f;
+            if(currentRoll > 45f)
+            {
+
+                currentRoll -= 90f;
+            }
+
+            roll = -currentRoll * autoRollForce * Time.deltaTime;
+            Debug.Log(currentRoll);
+        }
+        else
+        {
+
+            roll = -Input.GetAxis("Roll") * rollSens * Time.deltaTime;
+        }
+
 
         //transform.Rotate(rot.y, rot.x, roll);
         rb.AddRelativeTorque(rot.y, rot.x, roll);

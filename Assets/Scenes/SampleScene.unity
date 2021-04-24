@@ -189,6 +189,8 @@ MonoBehaviour:
   mainAcceleration: 2
   steerSens: 150
   rollSens: 2
+  autoRollForce: 0.01
+  autoRoll: 1
 --- !u!1 &553824483
 GameObject:
   m_ObjectHideFlags: 0
