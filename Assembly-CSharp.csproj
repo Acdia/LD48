@@ -60,7 +60,9 @@
     <UnityVersion>2020.3.4f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\MainMovement.cs" />
+    <Compile Include="Assets\Missile\Scripts\MainMovement.cs" />
+    <Compile Include="Assets\Brick.cs" />
+    <Compile Include="Assets\Impact.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
