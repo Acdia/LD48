@@ -4,7 +4,8 @@ public class Impact : MonoBehaviour
 {
 
     public float explosionForce = 10f;
-    [SerializeField] LayerMask layerMask;
+    [SerializeField] LayerMask bricks;
+    [SerializeField] LayerMask staticWalls;
     [SerializeField] float radius = 5f;
 
     private void OnCollisionEnter(Collision collision)
@@ -12,9 +13,17 @@ public class Impact : MonoBehaviour
 
         Debug.Log("Collided");
 
-        Collider[] nearby = Physics.OverlapSphere(transform.position, radius, layerMask);
+        Collider[] nearbyStaticWalls = Physics.OverlapSphere(transform.position, radius, staticWalls);
 
-        foreach(Collider c in nearby)
+        foreach(Collider c in nearbyStaticWalls)
+        {
+
+            c.GetComponent<WallExchanger>().ExchangeWall();
+        }
+
+        Collider[] nearbyBricks = Physics.OverlapSphere(transform.position, radius, bricks);
+
+        foreach(Collider c in nearbyBricks)
         {
 
             Brick brick = c.GetComponent<Brick>();

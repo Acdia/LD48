@@ -3,7 +3,7 @@ using UnityEngine;
 public class WallRecursion : MonoBehaviour
 {
 
-    public Transform recursor;
+    public Transform[] recursor;
     public bool isInitial = false;
     [SerializeField] int lor = 15;
 
@@ -31,7 +31,7 @@ public class WallRecursion : MonoBehaviour
             return;
         }
 
-        GameObject newWall = Instantiate(wall, recursor.position, recursor.rotation);
+        GameObject newWall = Instantiate(wall, recursor[0].position, recursor[Random.Range(0, 3)].rotation);
         newWall.GetComponent<WallRecursion>().Recurse(levelOfRecursion - 1);
     }
 }

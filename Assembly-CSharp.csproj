@@ -63,7 +63,8 @@
     <Compile Include="Assets\Missile\Scripts\MainMovement.cs" />
     <Compile Include="Assets\Brick\Brick.cs" />
     <Compile Include="Assets\Missile\Scripts\Impact.cs" />
-    <Compile Include="Assets\WallRecursion.cs" />
+    <Compile Include="Assets\Brick\Map\WallRecursion.cs" />
+    <Compile Include="Assets\Brick\Map\WallExchanger.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
