@@ -10,10 +10,10 @@ public class MainMovement : MonoBehaviour
 
     [Space]
 
-    [Range(50f, 300f)]
+    [Range(0f, 200f)]
     [SerializeField] float steerSens = 100f;
-    [Range(50f, 300f)]
-    [SerializeField] float rollSens = 100f;
+    [Range(0f, 10f)]
+    [SerializeField] float rollSens = 2f;
 
     Rigidbody rb;
 
@@ -45,7 +45,8 @@ public class MainMovement : MonoBehaviour
 
         float roll = -Input.GetAxis("Roll") * rollSens * Time.deltaTime;
 
-        transform.Rotate(rot.y, rot.x, roll);
+        //transform.Rotate(rot.y, rot.x, roll);
+        rb.AddRelativeTorque(rot.y, rot.x, roll);
     }
 
     private void Accelarate()
