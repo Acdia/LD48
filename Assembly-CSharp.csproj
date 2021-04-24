@@ -69,6 +69,7 @@
     <Compile Include="Assets\Elevator\EndZone.cs" />
     <Compile Include="Assets\MenuInit.cs" />
     <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\Death.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

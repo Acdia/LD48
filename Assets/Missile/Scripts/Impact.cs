@@ -13,6 +13,21 @@ public class Impact : MonoBehaviour
 
     [SerializeField] GameObject effect;
 
+    Vector3 savePos;
+    Quaternion saveRot;
+    Rigidbody rb;
+    MainMovement movement;
+
+    private void Start()
+    {
+
+        savePos = transform.position;
+        saveRot = transform.rotation;
+
+        rb = GetComponent<Rigidbody>();
+        movement = GetComponent<MainMovement>();
+    }
+
     private void OnCollisionEnter(Collision collision)
     {
 
@@ -42,8 +57,21 @@ public class Impact : MonoBehaviour
         if(isPlayer)
         {
 
-            gm.GetComponent<GameManager>().Die();
+            gm.GetComponent<GameManager>().Die(this);
+            movement.enabled = false;
+            rb.velocity = Vector3.zero;
+            rb.angularVelocity = Vector3.zero;
         }
         
+    }
+
+    public void ResetFlight()
+    {
+
+        transform.position = savePos;
+        transform.rotation = saveRot;
+        rb.velocity = Vector3.zero;
+        rb.angularVelocity = Vector3.zero;
+        movement.enabled = true;
     }
 }

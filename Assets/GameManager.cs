@@ -8,6 +8,9 @@ public class GameManager : MonoBehaviour
 
     public int[] levels;
     public GameObject deathUI;
+    
+
+    Impact missile;
 
     // Start is called before the first frame update
     void Start()
@@ -22,15 +25,17 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(levels[0]);
     }
 
-    public void Die()
+    public void Die(Impact missile)
     {
 
+        this.missile = missile;
         deathUI.SetActive(true);
     }
+    
 
     public void ResetLevel()
     {
-
+        missile.ResetFlight();
         deathUI.SetActive(false);
     }
 
