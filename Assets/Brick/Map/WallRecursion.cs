@@ -10,6 +10,7 @@ public class WallRecursion : MonoBehaviour
     [Space]
 
     public GameObject wall;
+    public GameObject dooredWall;
 
     // Start is called before the first frame update
     void Start()
@@ -20,6 +21,13 @@ public class WallRecursion : MonoBehaviour
 
             Recurse(lor);
         }
+    }
+
+    public void GetDoor()
+    {
+
+        Instantiate(dooredWall, transform.position, transform.rotation);
+        DestroyImmediate(gameObject);
     }
 
     public void Recurse(int levelOfRecursion)

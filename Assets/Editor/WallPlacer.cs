@@ -37,6 +37,13 @@ public class WallPlacer : Editor
 
             NextWall(3);
         }
+
+        if(GUILayout.Button("Door"))
+        {
+
+            WallRecursion rec = (WallRecursion)target;
+            rec.GetDoor();
+        }
     }
 
     void NextWall(int num)

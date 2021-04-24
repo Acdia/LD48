@@ -1354,3 +1354,828 @@ Received Import Request.
 Start importing Assets/Props/Lamp/Lamp.mat using Guid(f6b9a7192f5d5c64b94273b79baef59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9656b4070e0cd1415298598fd31275d') in 0.051194 seconds
   Import took 0.054706 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2433.218060 seconds.
+  path: Assets/Brick/Graphics/Materials/BadBrickTexture.mat
+  artifactKey: Guid(f4de26792e3061c4a95f3d32474fdf38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Graphics/Materials/BadBrickTexture.mat using Guid(f4de26792e3061c4a95f3d32474fdf38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13daa4891465020e3d47751368af6d4e') in 0.056824 seconds
+  Import took 0.061303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.809916 seconds.
+  path: Assets/Brick/Map/Corner.prefab
+  artifactKey: Guid(2774532728e8662428bad73b7c8de8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Corner.prefab using Guid(2774532728e8662428bad73b7c8de8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b356392ed8e2dab68fd8c7cf90031d') in 0.123531 seconds
+  Import took 0.134220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Brick/Map/RecursiveWall.prefab
+  artifactKey: Guid(be459a8a91435f64e9966f9b08d3f573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/RecursiveWall.prefab using Guid(be459a8a91435f64e9966f9b08d3f573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '279d9721a7741ab992e9952718b4b76c') in 0.126685 seconds
+  Import took 0.135982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Brick/Map/Wall.prefab
+  artifactKey: Guid(d7ae66ee75905bc489cb75ebbb2212d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Wall.prefab using Guid(d7ae66ee75905bc489cb75ebbb2212d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d4b766638974e0cf9fb5b9af0c66772') in 0.141390 seconds
+  Import took 0.149083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.606206 seconds.
+  path: Assets/Brick/Map/Wall 1.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Wall 1.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e2df51198df033de3c5452d6bd0e69') in 0.122561 seconds
+  Import took 0.130547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.517781 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5538c7a1dd4131623ca255c772364e3') in 0.113430 seconds
+  Import took 0.121531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.056100 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44602542ee2543802591bb54e75e300e') in 0.062824 seconds
+  Import took 0.071284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.450600 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa884e2db11a5e3ab975d2162dd57700') in 0.068109 seconds
+  Import took 0.077749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.101957 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1421f4e17cf51ac680958d119f0d2610') in 0.060840 seconds
+  Import took 0.067686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049163 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1421f4e17cf51ac680958d119f0d2610') in 0.075388 seconds
+  Import took 0.085379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.814914 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8271696cd5ad8765f38dda400577309') in 0.077369 seconds
+  Import took 0.086045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.379060 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db409e00c69561c1767a968c2885eb91') in 0.060952 seconds
+  Import took 0.068604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003196 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db409e00c69561c1767a968c2885eb91') in 0.068936 seconds
+  Import took 0.077411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.423129 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704e9216bfd656763cd01143c52801cc') in 0.062763 seconds
+  Import took 0.070145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.155547 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a98e991bd78dcdbe4bda339ae9e820') in 0.059450 seconds
+  Import took 0.066605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042933 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a98e991bd78dcdbe4bda339ae9e820') in 0.061570 seconds
+  Import took 0.069303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.714691 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aad31c44ddc83fb52475b9fe84091fb4') in 0.470859 seconds
+  Import took 0.480515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.393672 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f23cbb69a8e1c3c7a969198e5ecda166') in 0.063669 seconds
+  Import took 0.071043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046465 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f23cbb69a8e1c3c7a969198e5ecda166') in 0.066474 seconds
+  Import took 0.075036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.139120 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7eb521080412d1e53dbece5e9c68118') in 0.065921 seconds
+  Import took 0.072944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.764704 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff55bf39cbe4fcfd0867d21074258f31') in 0.058486 seconds
+  Import took 0.065419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025476 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff55bf39cbe4fcfd0867d21074258f31') in 0.062142 seconds
+  Import took 0.068920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.641479 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c200d432dac7d619d070b0f3e0e9c873') in 0.070036 seconds
+  Import took 0.077695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009596 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c200d432dac7d619d070b0f3e0e9c873') in 0.114571 seconds
+  Import took 0.127483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.665248 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ea17961baa2493403d885439131fcb') in 0.057687 seconds
+  Import took 0.064237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.728829 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32dcadb4f325a2df0b71428e959d68f') in 0.054385 seconds
+  Import took 0.061252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.032946 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec28240ec15e78e48528e88a0ae2ecd6') in 0.075134 seconds
+  Import took 0.082029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.691996 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa68beb87e203f086f0b2dd747e5e08b') in 0.056657 seconds
+  Import took 0.063637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.845405 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '612393858850e6c1c2b5c7c3017b861a') in 0.060162 seconds
+  Import took 0.068542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.836271 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9430259aba29efd56d7f2bd59d338879') in 0.054482 seconds
+  Import took 0.061290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.149908 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46fc946b090d23a002b98be04614be3') in 0.054138 seconds
+  Import took 0.061449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012403 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46fc946b090d23a002b98be04614be3') in 0.056922 seconds
+  Import took 0.064703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.644573 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb59cb635ca4a56489c121ee9655a66') in 0.094346 seconds
+  Import took 0.104230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.783761 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f129e38256db4c182b033da6d6484f8') in 0.057270 seconds
+  Import took 0.064008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019370 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f129e38256db4c182b033da6d6484f8') in 0.064108 seconds
+  Import took 0.072117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.426246 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '722723860b9e19a6f64b3acd2e5e38dc') in 0.056041 seconds
+  Import took 0.062845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.955640 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cdd55bccc0156846ac3187e4a63e6b8') in 0.053075 seconds
+  Import took 0.059529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.259512 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de25077e1ddd91da34b0f90c9dc18cbe') in 0.067649 seconds
+  Import took 0.075146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003018 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de25077e1ddd91da34b0f90c9dc18cbe') in 0.061788 seconds
+  Import took 0.068575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.419024 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06aa1003b793ebf68ab6fa77cb24b5ba') in 0.053770 seconds
+  Import took 0.061462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.381230 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72cc77420b4ce0761f5f5c234316da6f') in 0.050821 seconds
+  Import took 0.057138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013984 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72cc77420b4ce0761f5f5c234316da6f') in 0.053155 seconds
+  Import took 0.060543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.628720 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5dba5cb47705fbaec7e0553ee549a89') in 0.052459 seconds
+  Import took 0.058620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.926668 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22237d85e4d0419667d4804ad0b8f67') in 0.089829 seconds
+  Import took 0.101373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063413 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22237d85e4d0419667d4804ad0b8f67') in 0.068835 seconds
+  Import took 0.078442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.819025 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ebae1070fd6f1df4511e9d8909d4bd5') in 0.097259 seconds
+  Import took 0.109609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.566356 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfc1f07a4408f6e7ffdf0a5d7e839f44') in 0.051271 seconds
+  Import took 0.057217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.029936 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9c39c6bc57d35f86aee8eedc0493c6e') in 0.061298 seconds
+  Import took 0.068879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012969 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9c39c6bc57d35f86aee8eedc0493c6e') in 0.066851 seconds
+  Import took 0.074552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.641969 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e0b7d424a5a5967bad6bb30fdf829a') in 0.057827 seconds
+  Import took 0.066040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.052641 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ec4b7619d9ae6dae6d845db8ee29c64') in 0.068216 seconds
+  Import took 0.076145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.880013 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc4902b56c4d3ff104ec424a32f6688') in 0.049717 seconds
+  Import took 0.056523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.804453 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bca11841dc00ff5fbff09ee5e9d3929e') in 0.052015 seconds
+  Import took 0.058901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.426821 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b91a9b468c14120825cfe224de2f893') in 0.057825 seconds
+  Import took 0.064516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019809 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b91a9b468c14120825cfe224de2f893') in 0.063363 seconds
+  Import took 0.070323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.394767 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0493edfacd8f7320bf3d7c08a81af622') in 0.052699 seconds
+  Import took 0.058818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.542279 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf04105b3a2378a223fcb4ef07baa480') in 0.064108 seconds
+  Import took 0.072352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.570282 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351adee0c37e60a3aadef3ee86e194af') in 0.052700 seconds
+  Import took 0.059095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.380874 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31de7e6ab8745288dcb537527374e79a') in 0.051446 seconds
+  Import took 0.058102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.683492 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '900771ebd66224cd33369dc0f92bddec') in 0.059023 seconds
+  Import took 0.066588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.259420 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45732f76db29259f48e0a3c5a0f21996') in 0.057697 seconds
+  Import took 0.064865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.609802 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e56afe0f087fa18253f34d2541d21aa') in 0.057082 seconds
+  Import took 0.064537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.012119 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25f6662283f23bf8695a9cf080db5c74') in 0.058643 seconds
+  Import took 0.065036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.364118 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cb1fbd59e6e1944f93ce0e9df9a5ac8') in 0.054808 seconds
+  Import took 0.062286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011862 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cb1fbd59e6e1944f93ce0e9df9a5ac8') in 0.060718 seconds
+  Import took 0.066947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.538313 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa58492c905279514ae90e623b60a7b') in 0.076059 seconds
+  Import took 0.083249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.399699 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfdc7868563d849ea0273ec36ce4de23') in 0.065404 seconds
+  Import took 0.074614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012270 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfdc7868563d849ea0273ec36ce4de23') in 0.070307 seconds
+  Import took 0.079063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.524440 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eb10d3f1ab5241fd1a8267bac28c3b4') in 0.058537 seconds
+  Import took 0.067103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.402086 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a993edf1a4152782e8aff0cc2984548') in 0.072338 seconds
+  Import took 0.081225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009110 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a993edf1a4152782e8aff0cc2984548') in 0.125087 seconds
+  Import took 0.133539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.552806 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c509e600f606667b2b576a11002889ce') in 0.056786 seconds
+  Import took 0.063799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.363715 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6cfc93021828ec6f5478fe3cb2793e3') in 0.409798 seconds
+  Import took 0.418523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.385160 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9941737e00d01d7b848af5ab290102e3') in 0.248047 seconds
+  Import took 0.257440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.260911 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a50956fdd20581ff6607f2a2e1c192a1') in 0.066562 seconds
+  Import took 0.074061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006228 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a50956fdd20581ff6607f2a2e1c192a1') in 0.061619 seconds
+  Import took 0.069380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.741484 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3a258f05fdc83bdc934709a3d16ad4a') in 0.070036 seconds
+  Import took 0.078660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.432363 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1431706220a322262c659f1d875bc73d') in 0.072203 seconds
+  Import took 0.082268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007185 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1431706220a322262c659f1d875bc73d') in 0.087632 seconds
+  Import took 0.096542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.843969 seconds.
+  path: Assets/Brick/Map/Doored Wall.prefab
+  artifactKey: Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/Doored Wall.prefab using Guid(97894fd35ee80b34fbdcbd4c269beabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c4435fd22804f05e4b66a60d70b4bd8') in 0.234076 seconds
+  Import took 0.241999 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.203042 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.308 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.6 MB.
+System memory in use after: 76.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1953.
+Total: 2.551800 ms (FindLiveObjects: 0.397900 ms CreateObjectMapping: 0.149900 ms MarkObjects: 1.933500 ms  DeleteObjects: 0.068900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.648284 seconds.
+  path: Assets/Brick/Map/RecursiveWall.prefab
+  artifactKey: Guid(be459a8a91435f64e9966f9b08d3f573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick/Map/RecursiveWall.prefab using Guid(be459a8a91435f64e9966f9b08d3f573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc6a51e2949f89d1f870d7db6d80cc0') in 0.146307 seconds
+  Import took 0.158915 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003203 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.618 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.6 MB.
+System memory in use after: 76.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1957.
+Total: 2.520100 ms (FindLiveObjects: 0.262000 ms CreateObjectMapping: 0.077200 ms MarkObjects: 2.109900 ms  DeleteObjects: 0.069800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.260760 seconds.
+  path: Assets/Editor/WallPlacer.cs
+  artifactKey: Guid(746dd6173a30c474396d9942ff8a29a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/WallPlacer.cs using Guid(746dd6173a30c474396d9942ff8a29a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58e99bef06f8c7135358f60abccbcac7') in 0.021590 seconds
+  Import took 0.025897 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005572 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.607 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1960.
+Total: 2.508300 ms (FindLiveObjects: 0.297100 ms CreateObjectMapping: 0.084300 ms MarkObjects: 2.053600 ms  DeleteObjects: 0.071000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.532959 seconds.
+  path: Assets/Editor/WallPlacer.cs
+  artifactKey: Guid(746dd6173a30c474396d9942ff8a29a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/WallPlacer.cs using Guid(746dd6173a30c474396d9942ff8a29a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '240814bec67d39f1f03c78cf485ef526') in 0.007558 seconds
+  Import took 0.010892 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002528 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.629 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1963.
+Total: 2.629600 ms (FindLiveObjects: 0.432600 ms CreateObjectMapping: 0.096700 ms MarkObjects: 2.023000 ms  DeleteObjects: 0.075800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006457 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.739 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1966.
+Total: 2.405600 ms (FindLiveObjects: 0.294400 ms CreateObjectMapping: 0.079100 ms MarkObjects: 1.961500 ms  DeleteObjects: 0.069300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003687 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.771 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1969.
+Total: 2.407400 ms (FindLiveObjects: 0.314000 ms CreateObjectMapping: 0.078800 ms MarkObjects: 1.918100 ms  DeleteObjects: 0.095000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003809 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.679 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1972.
+Total: 2.725000 ms (FindLiveObjects: 0.292600 ms CreateObjectMapping: 0.082600 ms MarkObjects: 2.029500 ms  DeleteObjects: 0.318800 ms)
+

@@ -353,6 +353,7 @@ MonoBehaviour:
   isInitial: 0
   lor: 15
   wall: {fileID: 3530700736231704888}
+  dooredWall: {fileID: 9198774298194002781, guid: 97894fd35ee80b34fbdcbd4c269beabb, type: 3}
 --- !u!65 &7836566473875385500
 BoxCollider:
   m_ObjectHideFlags: 0
