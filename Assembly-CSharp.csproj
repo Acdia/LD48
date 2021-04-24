@@ -61,8 +61,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Missile\Scripts\MainMovement.cs" />
-    <Compile Include="Assets\Brick.cs" />
-    <Compile Include="Assets\Impact.cs" />
+    <Compile Include="Assets\Brick\Brick.cs" />
+    <Compile Include="Assets\Missile\Scripts\Impact.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -58,7 +58,6 @@ public class MainMovement : MonoBehaviour
             }
 
             roll = -currentRoll * autoRollForce * Time.deltaTime;
-            Debug.Log(currentRoll);
         }
         else
         {
