@@ -34,4 +34,10 @@ public class WallRecursion : MonoBehaviour
         GameObject newWall = Instantiate(wall, recursor[0].position, recursor[Random.Range(0, 3)].rotation);
         newWall.GetComponent<WallRecursion>().Recurse(levelOfRecursion - 1);
     }
+
+    public GameObject PlaceWall(int direction)
+    {
+
+        return Instantiate(wall, recursor[direction].position, recursor[direction].rotation, transform.parent);
+    }
 }
