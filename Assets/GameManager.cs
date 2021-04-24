@@ -39,9 +39,9 @@ public class GameManager : MonoBehaviour
         deathUI.SetActive(false);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void NextLevel()
     {
-        
+
+
     }
 }

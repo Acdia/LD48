@@ -3186,3 +3186,65 @@ System memory in use after: 78.5 MB.
 Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2088.
 Total: 3.154600 ms (FindLiveObjects: 0.331200 ms CreateObjectMapping: 0.082700 ms MarkObjects: 2.071600 ms  DeleteObjects: 0.667300 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002868 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.602 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1372 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 78.5 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2091.
+Total: 3.928500 ms (FindLiveObjects: 0.276000 ms CreateObjectMapping: 0.076200 ms MarkObjects: 2.991900 ms  DeleteObjects: 0.583000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3034.444352 seconds.
+  path: Assets/Elevator/EndZone.cs
+  artifactKey: Guid(d1c76f82941dfec4f8612e82d419bc5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elevator/EndZone.cs using Guid(d1c76f82941dfec4f8612e82d419bc5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '114a431229dc637c20be1f97437817ec') in 0.020807 seconds
+  Import took 0.024722 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003343 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.625 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1372 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.1 MB.
+System memory in use after: 78.5 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2094.
+Total: 3.026400 ms (FindLiveObjects: 0.304600 ms CreateObjectMapping: 0.083700 ms MarkObjects: 2.021000 ms  DeleteObjects: 0.615700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.210921 seconds.
+  path: Assets/Elevator/EndZone.cs
+  artifactKey: Guid(d1c76f82941dfec4f8612e82d419bc5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elevator/EndZone.cs using Guid(d1c76f82941dfec4f8612e82d419bc5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '354401350819ac65cb2ded62dfbdc8a6') in 0.011499 seconds
+  Import took 0.016723 seconds .
+

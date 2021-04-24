@@ -11,6 +11,9 @@ public class EndZone : MonoBehaviour
         {
 
             Debug.Log("Proceed to next level!");
+            GameObject go = GameObject.FindGameObjectWithTag("GameManager");
+
+            go.GetComponent<GameManager>().NextLevel();
         }
     }
 }
