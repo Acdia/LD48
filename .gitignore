@@ -1,2 +1,4 @@
 UnityLockfile
 *.temp
+*.lock
+*.tar.7z
