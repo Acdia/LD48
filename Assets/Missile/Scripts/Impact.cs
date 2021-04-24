@@ -35,5 +35,7 @@ public class Impact : MonoBehaviour
             Brick brick = c.GetComponent<Brick>();
             brick.Break(transform.position, explosionForce, radius);
         }
+
+        
     }
 }
