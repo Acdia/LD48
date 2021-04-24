@@ -370,3 +370,323 @@ System memory in use after: 71.2 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1900.
 Total: 2.494100 ms (FindLiveObjects: 0.269600 ms CreateObjectMapping: 0.084200 ms MarkObjects: 2.054900 ms  DeleteObjects: 0.084200 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1553.391730 seconds.
+  path: Assets/Props
+  artifactKey: Guid(ca1c88f0d0227ac4fae43323ffc808d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props using Guid(ca1c88f0d0227ac4fae43323ffc808d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f4bc9ddc273fac179ffabfb6add61b') in 0.032617 seconds
+  Import took 0.039542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.282634 seconds.
+  path: Assets/Props/Table
+  artifactKey: Guid(8391a5fa1a8db79428f83c9d381215b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Table using Guid(8391a5fa1a8db79428f83c9d381215b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47461f353b97a9be54dd23132ce710b') in 0.026872 seconds
+  Import took 0.032347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.818815 seconds.
+  path: Assets/Props/Table/table.fbx
+  artifactKey: Guid(c50dc3aae2c868a4a9cfe9b69e77296a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Table/table.fbx using Guid(c50dc3aae2c868a4a9cfe9b69e77296a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b73e224990698260b47a2fd974495ed') in 0.184739 seconds
+  Import took 0.188685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006144 seconds.
+  path: Assets/Props/Table/table.fbx
+  artifactKey: Guid(c50dc3aae2c868a4a9cfe9b69e77296a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Table/table.fbx using Guid(c50dc3aae2c868a4a9cfe9b69e77296a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b73e224990698260b47a2fd974495ed') in 0.115796 seconds
+  Import took 0.119929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.174686 seconds.
+  path: Assets/Props/Table/Leg.mat
+  artifactKey: Guid(2245de7c65d98e6448add939d16a8961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Table/Leg.mat using Guid(2245de7c65d98e6448add939d16a8961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbb3b0c36ec2596c78764dfdbae7c684') in 0.023543 seconds
+  Import took 0.027443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.795738 seconds.
+  path: Assets/Props/Table/Round Thing.mat
+  artifactKey: Guid(494dbbda7fae48245884eb07165dd163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Table/Round Thing.mat using Guid(494dbbda7fae48245884eb07165dd163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cff08e185df4eadb9c482d87109118b') in 0.020927 seconds
+  Import took 0.025201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.717156 seconds.
+  path: Assets/Props/Table/Plate (please text).mat
+  artifactKey: Guid(fb29b6d8826f2c241b7a1f9a00388322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Table/Plate (please text).mat using Guid(fb29b6d8826f2c241b7a1f9a00388322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9af23c40fd9aedd8ce348e6ee674171') in 0.022206 seconds
+  Import took 0.026213 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003078 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.969 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.1 MB.
+System memory in use after: 71.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1904.
+Total: 2.804700 ms (FindLiveObjects: 0.358900 ms CreateObjectMapping: 0.105100 ms MarkObjects: 2.256300 ms  DeleteObjects: 0.082800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1113.093650 seconds.
+  path: Assets/Props/Table/TablePlate.png
+  artifactKey: Guid(6c35d3e5d3ee39d4aa5cd51330b22711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Table/TablePlate.png using Guid(6c35d3e5d3ee39d4aa5cd51330b22711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ffe8cb659ad63d2abee969a499ca31a') in 0.106417 seconds
+  Import took 0.110771 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002696 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.696 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.1 MB.
+System memory in use after: 71.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1909.
+Total: 2.277700 ms (FindLiveObjects: 0.291900 ms CreateObjectMapping: 0.077000 ms MarkObjects: 1.844200 ms  DeleteObjects: 0.063200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 573.264923 seconds.
+  path: Assets/Props/Chair
+  artifactKey: Guid(e513e0b9502e06f4db02c4cb97de2c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Chair using Guid(e513e0b9502e06f4db02c4cb97de2c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d2f02f5b7fbf7628080435b2807265') in 0.021578 seconds
+  Import took 0.026765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.664124 seconds.
+  path: Assets/Props/Chair/chair.fbx
+  artifactKey: Guid(5d9a021360adfab499ff149b561e3f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Chair/chair.fbx using Guid(5d9a021360adfab499ff149b561e3f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c185050fd26c4fdb8d2d290824cdc33e') in 0.160755 seconds
+  Import took 0.164454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.533082 seconds.
+  path: Assets/Props/Table/Table.prefab
+  artifactKey: Guid(c74f1f3ab913dd14598864afc8335af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Table/Table.prefab using Guid(c74f1f3ab913dd14598864afc8335af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Table) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (Table) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: 'c5b21907850f3088ad788bf68635043f') in 0.052066 seconds
+  Import took 0.056658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038271 seconds.
+  path: Assets/Props/Table/Table.prefab
+  artifactKey: Guid(c74f1f3ab913dd14598864afc8335af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Table/Table.prefab using Guid(c74f1f3ab913dd14598864afc8335af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Table) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (Table) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: 'c5b21907850f3088ad788bf68635043f') in 0.041661 seconds
+  Import took 0.046080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.424963 seconds.
+  path: Assets/Props/Table/table model.fbx
+  artifactKey: Guid(c50dc3aae2c868a4a9cfe9b69e77296a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Table/table model.fbx using Guid(c50dc3aae2c868a4a9cfe9b69e77296a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab58f7046f87ee462789db7aace95b67') in 0.102476 seconds
+  Import took 0.106489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.673753 seconds.
+  path: Assets/Props/Chair/chair model.fbx
+  artifactKey: Guid(5d9a021360adfab499ff149b561e3f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Chair/chair model.fbx using Guid(5d9a021360adfab499ff149b561e3f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25b19a5af8d5663b1b1f0307234e357') in 0.075700 seconds
+  Import took 0.080169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004229 seconds.
+  path: Assets/Props/Chair/chair model.fbx
+  artifactKey: Guid(5d9a021360adfab499ff149b561e3f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Chair/chair model.fbx using Guid(5d9a021360adfab499ff149b561e3f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25b19a5af8d5663b1b1f0307234e357') in 0.048455 seconds
+  Import took 0.052389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.186660 seconds.
+  path: Assets/Props/Chair/Frame.mat
+  artifactKey: Guid(5ec4b3613f28c974a8cc5dec99fbd67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Chair/Frame.mat using Guid(5ec4b3613f28c974a8cc5dec99fbd67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca43f1e887ddcdbf6b488bf5074b049') in 0.028974 seconds
+  Import took 0.032817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.811506 seconds.
+  path: Assets/Props/Chair/Seat.mat
+  artifactKey: Guid(c5ed230b84cf4ab4a973af62c78be4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Chair/Seat.mat using Guid(c5ed230b84cf4ab4a973af62c78be4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56aaece44963ca56d94ea8c2b8420054') in 0.026962 seconds
+  Import took 0.032531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 189.857015 seconds.
+  path: Assets/Props/Table/Table.controller
+  artifactKey: Guid(37483569ff47ac54b83d715024df4aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Table/Table.controller using Guid(37483569ff47ac54b83d715024df4aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '256c0686c889674f0ed8197ca5123e79') in 0.024927 seconds
+  Import took 0.028707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 245.131798 seconds.
+  path: Assets/Props/Table/TableIdle.anim
+  artifactKey: Guid(c97cedd3b8fa62441a37adf0d2fcba14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Table/TableIdle.anim using Guid(c97cedd3b8fa62441a37adf0d2fcba14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8444afb2e49e28698a3ce95dcdd4454e') in 0.016725 seconds
+  Import took 0.020022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.500055 seconds.
+  path: Assets/Props/Chair/Chair.prefab
+  artifactKey: Guid(1b02dff3f4a688d43b73061bf6b275c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Chair/Chair.prefab using Guid(1b02dff3f4a688d43b73061bf6b275c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Chair) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (Chair) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '9a23334958cb307c060eb73396f466bd') in 0.036657 seconds
+  Import took 0.042157 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003002 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.493 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.3 MB.
+System memory in use after: 71.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1913.
+Total: 3.075000 ms (FindLiveObjects: 0.428100 ms CreateObjectMapping: 0.116000 ms MarkObjects: 2.448700 ms  DeleteObjects: 0.080800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.487463 seconds.
+  path: Assets/Props/Chair/Frame.mat
+  artifactKey: Guid(5ec4b3613f28c974a8cc5dec99fbd67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Chair/Frame.mat using Guid(5ec4b3613f28c974a8cc5dec99fbd67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07405a23682958965e04670a91407fa0') in 0.139762 seconds
+  Import took 0.144755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Props/Chair/Seat.mat
+  artifactKey: Guid(c5ed230b84cf4ab4a973af62c78be4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Props/Chair/Seat.mat using Guid(c5ed230b84cf4ab4a973af62c78be4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c580db6adc902aa2509b751765a0cf24') in 0.029002 seconds
+  Import took 0.036154 seconds .
+
