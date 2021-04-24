@@ -7,6 +7,7 @@ public class Impact : MonoBehaviour
     [SerializeField] LayerMask bricks;
     [SerializeField] LayerMask staticWalls;
     [SerializeField] float radius = 5f;
+    [SerializeField] bool isPlayer = true;
 
     [Space]
 
@@ -36,6 +37,13 @@ public class Impact : MonoBehaviour
             brick.Break(transform.position, explosionForce, radius);
         }
 
+        GameObject gm = GameObject.FindGameObjectWithTag("GameManager");
+
+        if(isPlayer)
+        {
+
+            gm.GetComponent<GameManager>().Die();
+        }
         
     }
 }
