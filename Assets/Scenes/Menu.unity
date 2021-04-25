@@ -1542,11 +1542,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b6b7f33570450845b945dab74277fe4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levels: 01000000
+  levels: 010000000200000003000000
   deathUI: {fileID: 2034556393}
   nextLevelUI: {fileID: 367663282}
   nextLevelText: {fileID: 91394836}
   missiles: 
+  useProps: 1
 --- !u!4 &989307974
 Transform:
   m_ObjectHideFlags: 0

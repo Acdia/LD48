@@ -63,13 +63,14 @@
     <Compile Include="Assets\Brick\Map\WallRecursion.cs" />
     <Compile Include="Assets\Brick\Brick.cs" />
     <Compile Include="Assets\Missile\Scripts\MainMovement.cs" />
+    <Compile Include="Assets\Elevator\EndZone.cs" />
+    <Compile Include="Assets\Death.cs" />
+    <Compile Include="Assets\MenuInit.cs" />
+    <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\Brick\Map\WallExchanger.cs" />
     <Compile Include="Assets\Missile\Scripts\Impact.cs" />
     <Compile Include="Assets\Elevator\Elevator.cs" />
-    <Compile Include="Assets\Elevator\EndZone.cs" />
-    <Compile Include="Assets\MenuInit.cs" />
-    <Compile Include="Assets\GameManager.cs" />
-    <Compile Include="Assets\Death.cs" />
+    <Compile Include="Assets\PropsRemover.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

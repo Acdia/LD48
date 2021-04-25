@@ -19,6 +19,8 @@ public class GameManager : MonoBehaviour
     int currentLevel = 0;
     bool winning = false;
 
+    public bool useProps;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -59,7 +61,7 @@ public class GameManager : MonoBehaviour
     {
 
         missiles[currentLevel]++;
-        nextLevelText.text = "Level " + currentLevel.ToString() + " completed with " + missiles[currentLevel] + " missiles";
+        nextLevelText.text = "Level -" + currentLevel.ToString() + " completed with " + missiles[currentLevel] + " missiles";
         nextLevelUI.SetActive(true);
         winning = true;
     }
@@ -77,6 +79,7 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(levels[currentLevel + 1]);
         nextLevelUI.SetActive(false);
         winning = false;
+        currentLevel++;
     }
 
     public void RestartThisLevel()
