@@ -1329,7 +1329,7 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 40
-    m_Alignment: 4
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 1
@@ -1897,7 +1897,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: '[insert objective] shut down!'
+  m_Text: server shut down!
 --- !u!222 &1114529145
 CanvasRenderer:
   m_ObjectHideFlags: 0

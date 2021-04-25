@@ -92,6 +92,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
+    - Class: 72
+      Script: {instanceID: 0}
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
@@ -119,9 +121,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1996}
     - Class: 114
+      Script: {instanceID: 2028}
+    - Class: 114
+      Script: {instanceID: 2074}
+    - Class: 114
       Script: {instanceID: 2406}
     - Class: 114
       Script: {instanceID: 2490}
+    - Class: 114
+      Script: {instanceID: 2818}
+    - Class: 114
+      Script: {instanceID: 2852}
     - Class: 114
       Script: {instanceID: 3018}
     - Class: 114
@@ -131,13 +141,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3308}
     - Class: 114
+      Script: {instanceID: 3464}
+    - Class: 114
       Script: {instanceID: 3516}
     - Class: 114
       Script: {instanceID: 3790}
     - Class: 114
       Script: {instanceID: 3898}
     - Class: 114
+      Script: {instanceID: 3948}
+    - Class: 114
       Script: {instanceID: 4068}
+    - Class: 114
+      Script: {instanceID: 4188}
     - Class: 114
       Script: {instanceID: 15473472}
     - Class: 115
@@ -691,6 +707,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
+    - Class: 72
+      Script: {instanceID: 0}
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
@@ -722,6 +740,10 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1996}
     - Class: 114
+      Script: {instanceID: 2028}
+    - Class: 114
+      Script: {instanceID: 2074}
+    - Class: 114
       Script: {instanceID: 2090}
     - Class: 114
       Script: {instanceID: 2406}
@@ -729,6 +751,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 2468}
     - Class: 114
       Script: {instanceID: 2490}
+    - Class: 114
+      Script: {instanceID: 2818}
+    - Class: 114
+      Script: {instanceID: 2852}
     - Class: 114
       Script: {instanceID: 3018}
     - Class: 114
@@ -742,6 +768,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3308}
     - Class: 114
+      Script: {instanceID: 3464}
+    - Class: 114
       Script: {instanceID: 3492}
     - Class: 114
       Script: {instanceID: 3516}
@@ -750,7 +778,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3898}
     - Class: 114
+      Script: {instanceID: 3948}
+    - Class: 114
       Script: {instanceID: 4068}
+    - Class: 114
+      Script: {instanceID: 4188}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1388,4 +1420,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level 4.unity
   - Assets/Scenes/Level 5.unity
   - Assets/Scenes/End.unity
-  playerPath: C:/Users/Megaport/Desktop/Unity/LD48/Builds/WinTempName/LD48.exe
+  playerPath: C:/Users/Megaport/Desktop/Unity/LD48/Builds/DeepTechIndustries Win/DeepTech
+    Industries.exe
