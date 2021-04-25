@@ -17,6 +17,12 @@ public class MainMovement : MonoBehaviour
     public float autoRollForce = 0.1f;
     public bool autoRoll = false;
 
+    [Space]
+
+    [Range(0f, 3f)]
+    [SerializeField] float pitchFactor = 0.2f;
+    AudioSource flightAudio;
+
     Rigidbody rb;
 
     // Start is called before the first frame update
@@ -24,6 +30,7 @@ public class MainMovement : MonoBehaviour
     {
 
         rb = GetComponent<Rigidbody>();
+        flightAudio = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -73,6 +80,12 @@ public class MainMovement : MonoBehaviour
     private void Accelarate()
     {
         float forwardSpeed = transform.InverseTransformDirection(rb.velocity).z;
+
+        if(flightAudio != null)
+        {
+
+            flightAudio.pitch = forwardSpeed * pitchFactor;
+        }
 
         float acceleration = maxSpeed - forwardSpeed;
         if (acceleration < 0f) acceleration = 0f;

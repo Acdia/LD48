@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
@@ -9,7 +10,9 @@ public class GameManager : MonoBehaviour
     public int[] levels;
     public GameObject deathUI;
     public GameObject nextLevelUI;
-    
+    public Text nextLevelText;
+
+    public int[] missiles;
 
     Impact missile;
 
@@ -21,6 +24,7 @@ public class GameManager : MonoBehaviour
     {
 
         DontDestroyOnLoad(gameObject);
+        missiles = new int[levels.Length];
     }
 
     public void LaunchGame()
@@ -31,13 +35,16 @@ public class GameManager : MonoBehaviour
 
     public void Die(Impact missile)
     {
-
+        
         if(!winning)
         {
 
+            missiles[currentLevel]++;
             this.missile = missile;
             deathUI.SetActive(true);
         }
+
+        winning = true;
     }
     
 
@@ -45,11 +52,14 @@ public class GameManager : MonoBehaviour
     {
         missile.ResetFlight();
         deathUI.SetActive(false);
+        winning = false;
     }
 
     public void NextLevel()
     {
 
+        missiles[currentLevel]++;
+        nextLevelText.text = "Level " + currentLevel.ToString() + " completed with " + missiles[currentLevel] + " missiles";
         nextLevelUI.SetActive(true);
         winning = true;
     }

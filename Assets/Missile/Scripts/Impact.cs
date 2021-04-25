@@ -13,10 +13,12 @@ public class Impact : MonoBehaviour
 
     [SerializeField] GameObject effect;
 
+
     Vector3 savePos;
     Quaternion saveRot;
     Rigidbody rb;
     MainMovement movement;
+    AudioSource flightAudio;
 
     private void Start()
     {
@@ -26,6 +28,7 @@ public class Impact : MonoBehaviour
 
         rb = GetComponent<Rigidbody>();
         movement = GetComponent<MainMovement>();
+        flightAudio = GetComponent<AudioSource>();
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -62,6 +65,12 @@ public class Impact : MonoBehaviour
             rb.velocity = Vector3.zero;
             rb.angularVelocity = Vector3.zero;
         }
+
+        if(flightAudio != null)
+        {
+
+            flightAudio.mute = true;
+        }
         
     }
 
@@ -73,5 +82,11 @@ public class Impact : MonoBehaviour
         rb.velocity = Vector3.zero;
         rb.angularVelocity = Vector3.zero;
         movement.enabled = true;
+        effect.SetActive(false);
+        if(flightAudio != null)
+        {
+
+            flightAudio.mute = false;
+        }
     }
 }
