@@ -1073,3 +1073,73 @@ System memory in use after: 47.5 MB.
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1980.
 Total: 2.923600 ms (FindLiveObjects: 0.337600 ms CreateObjectMapping: 0.090200 ms MarkObjects: 2.386800 ms  DeleteObjects: 0.106800 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 806.017425 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(7f5b7ada299efc1448eb0146f9e722c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(7f5b7ada299efc1448eb0146f9e722c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e74f136557781b43737d17ea10110d') in 0.050258 seconds
+  Import took 0.056415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.019155 seconds.
+  path: Assets/Scenes/Level 3.unity
+  artifactKey: Guid(b39a687bbdec8b140b452f9e5fc8d169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 3.unity using Guid(b39a687bbdec8b140b452f9e5fc8d169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c52b4e23100ae530d3ae8a9206c082') in 0.016513 seconds
+  Import took 0.020527 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002782 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.914 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1360 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.2 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1983.
+Total: 2.621500 ms (FindLiveObjects: 0.343900 ms CreateObjectMapping: 0.103300 ms MarkObjects: 2.090800 ms  DeleteObjects: 0.081500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 834.317108 seconds.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(fa4e4bdc33517734f8aa12b78efd0a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(fa4e4bdc33517734f8aa12b78efd0a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a5e14573e08374726c4bf768f022ce4') in 0.097999 seconds
+  Import took 0.102465 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003226 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.834 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1360 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.2 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1986.
+Total: 2.253600 ms (FindLiveObjects: 0.260500 ms CreateObjectMapping: 0.076100 ms MarkObjects: 1.850500 ms  DeleteObjects: 0.065300 ms)
+
