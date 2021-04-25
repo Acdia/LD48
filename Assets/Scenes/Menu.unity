@@ -2495,7 +2495,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b6b7f33570450845b945dab74277fe4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levels: 0100000002000000030000000400000005000000
+  endScene: 7
+  levels: 010000000200000003000000040000000500000006000000
   deathUI: {fileID: 2034556393}
   nextLevelUI: {fileID: 367663282}
   nextLevelText: {fileID: 91394836}

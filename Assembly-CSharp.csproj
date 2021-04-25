@@ -71,6 +71,7 @@
     <Compile Include="Assets\Missile\Scripts\Impact.cs" />
     <Compile Include="Assets\Elevator\Elevator.cs" />
     <Compile Include="Assets\PropsRemover.cs" />
+    <Compile Include="Assets\StatsReader.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

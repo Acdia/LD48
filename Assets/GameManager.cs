@@ -7,6 +7,7 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
 
+    public int endScene;
     public int[] levels;
     public GameObject deathUI;
     public GameObject nextLevelUI;
@@ -18,6 +19,8 @@ public class GameManager : MonoBehaviour
 
     int currentLevel = 0;
     bool winning = false;
+
+    int lastLevel = 5;
 
     //Settings
 
@@ -87,10 +90,25 @@ public class GameManager : MonoBehaviour
     public void NextLevel()
     {
 
+        if(currentLevel == lastLevel)
+        {
+
+            missiles[currentLevel]++;
+            winning = true;
+            Win();
+            return;
+        }
+
         missiles[currentLevel]++;
         nextLevelText.text = "Level -" + currentLevel.ToString() + " completed with " + missiles[currentLevel] + " missiles";
         nextLevelUI.SetActive(true);
         winning = true;
+    }
+
+    void Win()
+    {
+
+        SceneManager.LoadScene(endScene);
     }
 
     public void EnterNextLevel()
