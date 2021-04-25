@@ -19,7 +19,11 @@ public class GameManager : MonoBehaviour
     int currentLevel = 0;
     bool winning = false;
 
+    //Settings
+
     public bool useProps;
+    public bool autoRoll = true;
+    public float volume = 1f;
 
     // Start is called before the first frame update
     void Start()
@@ -28,6 +32,29 @@ public class GameManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
         missiles = new int[levels.Length];
     }
+
+    //Settings
+    public void SetUseProps(bool value)
+    {
+
+        useProps = value;
+    }
+
+    public void SetAutoRoll(bool value)
+    {
+
+        autoRoll = value;
+    }
+
+    public void SetVolume(float value)
+    {
+
+        volume = value;
+        AudioListener.volume = value;
+    }
+
+
+
 
     public void LaunchGame()
     {
@@ -85,6 +112,7 @@ public class GameManager : MonoBehaviour
     public void RestartThisLevel()
     {
 
+        missiles[currentLevel] = 0;
         SceneManager.LoadScene(levels[currentLevel]);
         nextLevelUI.SetActive(false);
         winning = false;

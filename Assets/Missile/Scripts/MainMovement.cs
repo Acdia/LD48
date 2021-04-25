@@ -31,6 +31,7 @@ public class MainMovement : MonoBehaviour
 
         rb = GetComponent<Rigidbody>();
         flightAudio = GetComponent<AudioSource>();
+        autoRoll = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>().autoRoll;
     }
 
     // Update is called once per frame

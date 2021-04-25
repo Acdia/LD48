@@ -9,6 +9,7 @@ ScriptsOnlyBuild:
     - Impact
     - MainMovement
     - MenuInit
+    - PropsRemover
     - WallExchanger
     - WallRecursion
     Unity.Postprocessing.Runtime.dll:
@@ -45,8 +46,10 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -59,7 +62,9 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
+    - UnityEngine.UI.Toggle
   sceneClasses:
     Assets/Scenes/Level 0.unity:
     - Class: 1
@@ -132,6 +137,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 3948}
     - Class: 114
       Script: {instanceID: 4188}
+    - Class: 114
+      Script: {instanceID: 8885142}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -215,6 +222,93 @@ ScriptsOnlyBuild:
       Script: {instanceID: 3948}
     - Class: 114
       Script: {instanceID: 4188}
+    - Class: 114
+      Script: {instanceID: 8885142}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/Scenes/Level 2.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 72
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1774}
+    - Class: 114
+      Script: {instanceID: 1814}
+    - Class: 114
+      Script: {instanceID: 1884}
+    - Class: 114
+      Script: {instanceID: 2028}
+    - Class: 114
+      Script: {instanceID: 2074}
+    - Class: 114
+      Script: {instanceID: 2090}
+    - Class: 114
+      Script: {instanceID: 2818}
+    - Class: 114
+      Script: {instanceID: 2852}
+    - Class: 114
+      Script: {instanceID: 3464}
+    - Class: 114
+      Script: {instanceID: 3642}
+    - Class: 114
+      Script: {instanceID: 3790}
+    - Class: 114
+      Script: {instanceID: 3900}
+    - Class: 114
+      Script: {instanceID: 3948}
+    - Class: 114
+      Script: {instanceID: 4188}
+    - Class: 114
+      Script: {instanceID: 8885142}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -275,11 +369,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1604}
     - Class: 114
+      Script: {instanceID: 1766}
+    - Class: 114
       Script: {instanceID: 1814}
+    - Class: 114
+      Script: {instanceID: 1850}
     - Class: 114
       Script: {instanceID: 1884}
     - Class: 114
       Script: {instanceID: 1996}
+    - Class: 114
+      Script: {instanceID: 2090}
     - Class: 114
       Script: {instanceID: 2406}
     - Class: 114
@@ -697,7 +797,7 @@ ScriptsOnlyBuild:
     className: EventSystem
   - hash:
       serializedVersion: 2
-      Hash: bee1cd2cf2826d5b236b362431205159
+      Hash: b6630125dc4653c8424f59b9589a1c6f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GameManager
@@ -923,9 +1023,16 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Postprocessing.Runtime.dll
     namespaceName: UnityEngine.Rendering.PostProcessing
     className: AmbientOcclusion
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PropsRemover
   platform: 19
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Level 0.unity
   - Assets/Scenes/Level 1.unity
+  - Assets/Scenes/Level 2.unity
   playerPath: C:/Users/Megaport/Desktop/Unity/LD48/Builds/WinTempName/LD48.exe
