@@ -1143,3 +1143,98 @@ System memory in use after: 74.3 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1986.
 Total: 2.253600 ms (FindLiveObjects: 0.260500 ms CreateObjectMapping: 0.076100 ms MarkObjects: 1.850500 ms  DeleteObjects: 0.065300 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 602.632780 seconds.
+  path: Assets/Server
+  artifactKey: Guid(c08e86b80273235489caca96967adc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Server using Guid(c08e86b80273235489caca96967adc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '587c72ae0eba8013b18d3add08813b8c') in 0.018668 seconds
+  Import took 0.023239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.593425 seconds.
+  path: Assets/Server/Server.fbx
+  artifactKey: Guid(2128923e505143c488808da9e1ead66f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Server/Server.fbx using Guid(2128923e505143c488808da9e1ead66f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f451168f7e85484da8f38984a238c1') in 0.189816 seconds
+  Import took 0.193687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.664986 seconds.
+  path: Assets/Server/ServerMat.mat
+  artifactKey: Guid(a00815bc8d512014f848aebee4be6f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Server/ServerMat.mat using Guid(a00815bc8d512014f848aebee4be6f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e798963dd6b1ffac9d8e21e68baefa2c') in 0.031814 seconds
+  Import took 0.036155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.668000 seconds.
+  path: Assets/Server/Server.fbx
+  artifactKey: Guid(2128923e505143c488808da9e1ead66f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Server/Server.fbx using Guid(2128923e505143c488808da9e1ead66f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46081881a422615322b828e4d8b48039') in 0.028452 seconds
+  Import took 0.032926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.462095 seconds.
+  path: Assets/Server/ServerMat.mat
+  artifactKey: Guid(a00815bc8d512014f848aebee4be6f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Server/ServerMat.mat using Guid(a00815bc8d512014f848aebee4be6f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5108d118665193ec9a910a6a07ca47f2') in 0.026870 seconds
+  Import took 0.195200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.951885 seconds.
+  path: Assets/Scenes/Level 3.unity
+  artifactKey: Guid(b39a687bbdec8b140b452f9e5fc8d169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 3.unity using Guid(b39a687bbdec8b140b452f9e5fc8d169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6345e50c933180a21f68a3b78f4b388a') in 0.024497 seconds
+  Import took 0.028268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.182209 seconds.
+  path: Assets/Scenes/Level 4.unity
+  artifactKey: Guid(da5321bb3e184a3448cf6480c41c8f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 4.unity using Guid(da5321bb3e184a3448cf6480c41c8f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8702938ce037d29f9f0a68c374ac7735') in 0.018116 seconds
+  Import took 0.023379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.143625 seconds.
+  path: Assets/Elevator/Mats/alarm.mat
+  artifactKey: Guid(a27010b097178984e89fbe514a08269a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elevator/Mats/alarm.mat using Guid(a27010b097178984e89fbe514a08269a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '696cebdb1fecd96c5210eae678824d69') in 0.039746 seconds
+  Import took 0.043432 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003121 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.845 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1360 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1993.
+Total: 2.519200 ms (FindLiveObjects: 0.255100 ms CreateObjectMapping: 0.074700 ms MarkObjects: 2.114300 ms  DeleteObjects: 0.073800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 555.495295 seconds.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(fa4e4bdc33517734f8aa12b78efd0a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(fa4e4bdc33517734f8aa12b78efd0a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62692526b5a813cdcf27c898d969e463') in 0.032392 seconds
+  Import took 0.036719 seconds .
+
